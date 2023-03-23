@@ -1,42 +1,85 @@
 {
-"meetups": [
+  "meetups": [
     {
+      "title": "test2",
+      "typeId": 3,
+      "venue": "test2",
+      "address": "test2",
+      "neighborhood": 2,
+      "link": "test2",
+      "date": "2023-03-28",
+      "time": "12:29",
+      "description": "test2",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Coffee and Coding",
+      "typeId": 1,
+      "venue": "Barista Parlor",
+      "address": "519 Gallatin Ave B, Nashville, TN 37206",
+      "neighborhood": 1,
+      "link": "http://www.baristaparlor.com/",
+      "date": "2023-03-26",
+      "time": "10:00",
+      "description": "Working on course work/side projects",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Test3",
+      "typeId": 2,
+      "venue": "Test3",
+      "address": "Test3",
+      "neighborhood": 2,
+      "link": "Test3",
+      "date": "2023-04-03",
+      "time": "15:45",
+      "description": "Test3",
+      "userId": 2,
+      "id": 4
     }
-],
-"users": [
+  ],
+  "users": [
     {
       "id": 1,
       "fullName": "Jenny Kitchen",
       "email": "jennykayekitchen@gmail.com",
       "isAdmin": true
+    },
+    {
+      "email": "mhurtado1@berklee.edu",
+      "fullName": "Shane Hurtado",
+      "isAdmin": false,
+      "id": 2
     }
-],
-"neighborhoods": [
+  ],
+  "neighborhoods": [
     {
-        "id": 1,
-        "name": "East Nashville"
+      "id": 1,
+      "name": "East Nashville"
     },
     {
-        "id": 2,
-        "name": "West Nashville"
+      "id": 2,
+      "name": "West Nashville"
     },
     {
-        "id": 3,
-        "name": "Donelson / Hermitage / Mt. Juliet"
-    }    
-],
-"type": [
-    {
-        "id": 1,
-        "name": "Course Work"
-    },
-    {
-        "id": 2,
-        "name": "Hang Out"
-    },
-    {
-        "id": 3,
-        "name": "Celebration"
+      "id": 3,
+      "name": "Donelson / Hermitage / Mt. Juliet"
     }
-]
+  ],
+  "type": [
+    {
+      "id": 1,
+      "name": "Course Work"
+    },
+    {
+      "id": 2,
+      "name": "Hang Out"
+    },
+    {
+      "id": 3,
+      "name": "Celebration"
+    }
+  ]
 }

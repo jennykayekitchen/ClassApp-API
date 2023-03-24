@@ -45,13 +45,29 @@
       "id": 1,
       "fullName": "Jenny Kitchen",
       "email": "jennykayekitchen@gmail.com",
+      "accessCode": "TheChosenOnes",
       "isAdmin": true
     },
     {
       "email": "mhurtado1@berklee.edu",
       "fullName": "Shane Hurtado",
+      "accessCode": "SummerOf61",
       "isAdmin": false,
       "id": 2
+    },
+    {
+      "email": "katiekines@gmail.com",
+      "fullName": "Katie Kines",
+      "isAdmin": false,
+      "accessCode": "SummerOf61",
+      "id": 3
+    },
+    {
+      "email": "hannahpapa@gmail.com",
+      "fullName": "Hannah Papa",
+      "isAdmin": false,
+      "accessCode": "SummerOf61",
+      "id": 4
     }
   ],
   "neighborhoods": [

@@ -25,6 +25,19 @@
       "description": "Help! I need to prepare for a virtual interview next week!",
       "link": "https://www.nectarcantina.com/",
       "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Coffee & Coding",
+      "typeId": 4,
+      "date": "2023-04-16",
+      "time": "10:30",
+      "venue": "Barista Parlor",
+      "address": "519 Gallatin Ave B, Nashville, TN 37206",
+      "neighborhoodId": 1,
+      "description": "Working on anything and everything and helping each other out.",
+      "link": "https://baristaparlor.com/",
+      "userId": 3
     }
   ],
   "users": [
@@ -117,29 +130,34 @@
   ],
   "savedMeetups": [
     {
-      "userId": 1,
-      "meetupId": 12,
-      "id": 1
-    },
-    {
       "userId": 6,
       "meetupId": 12,
       "id": 2
     },
     {
-      "userId": 3,
-      "meetupId": 12,
-      "id": 3
-    },
-    {
-      "userId": 3,
-      "meetupId": 10,
-      "id": 4
-    },
-    {
       "userId": 1,
       "meetupId": 10,
       "id": 5
+    },
+    {
+      "userId": 3,
+      "meetupId": 12,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "meetupId": 10,
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "meetupId": 13,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "meetupId": 13,
+      "id": 9
     }
   ]
 }
